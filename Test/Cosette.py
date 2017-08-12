@@ -1,4 +1,5 @@
 import numpy as np
 
-print('Hello World')
+txt = 'Hello World'
 
+vector = np.zeros(len(txt))
